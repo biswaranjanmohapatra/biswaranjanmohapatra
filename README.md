@@ -1,7 +1,13 @@
-# 👋 Hey, I'm Biswa Ranjan Mohapatra
+<!-- Animated Name -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Biswa+Ranjan+Mohapatra;Frontend+Developer;React+%2B+TypeScript+Enthusiast;Building+Projects+Daily+🚀" />
+</h1>
+
+<!-- Profile Views -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2B+TypeScript+Enthusiast;Building+Projects+Daily+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=biswaranjanmohapatra&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -9,7 +15,7 @@
 ## 💫 About Me
 
 🌱 I am currently working on **React & TypeScript**
-💡 Learning, building, and improving every day
+💡 Focused on building real-world projects
 
 ---
 
@@ -34,14 +40,11 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
-![Profile Views](https://komarev.com/ghpvc/?username=biswaranjanmohapatra\&style=for-the-badge\&color=brightgreen)
 ![Followers](https://img.shields.io/github/followers/biswaranjanmohapatra?style=for-the-badge\&color=blue)
 ![Stars](https://img.shields.io/github/stars/biswaranjanmohapatra?style=for-the-badge\&color=yellow)
-
-![Consistency](https://img.shields.io/badge/Streak-Keep%20Coding-red?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-React%20%2B%20TS-blueviolet?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-Active-success?style=for-the-badge)
 
 ---
 
@@ -61,13 +64,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-* ⚛️ Advanced React
-* 🔷 TypeScript Deep Dive
-* 🌐 Next.js (coming soon)
-
----
-
 ⭐️ *Consistency beats intensity. Code daily, grow daily.*
+
 
